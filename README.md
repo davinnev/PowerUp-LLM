@@ -1,5 +1,6 @@
 # PowerUp-LLM
 An LLM optimizer that streamlines matrix vector multiplication process by implementing multithreading and synchronization techniques.
+This optimizer is compatible for Linux machines.
 
 ### Running the script 
 1. Clone the repository
