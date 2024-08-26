@@ -2,6 +2,18 @@
 An LLM optimizer that streamlines matrix vector multiplication process by implementing multithreading and synchronization techniques.
 This optimizer is compatible for Linux machines.
 
+### Improvements
+(see folder "examples)
+1. Running the matrix vector multiplication using a single thread. Time taken: 4.927 s
+![alt text](https://github.com/davinnev/PowerUp-LLM/blob/main/examples/singlethread.jpg?raw=true)
+
+2. Running the matrix vector multiplication using 4 threads. Time taken: 2.338 s
+![alt text](https://github.com/davinnev/PowerUp-LLM/blob/main/examples/4threads.jpg?raw=true)
+
+3. Running the matrix vector multiplication using 4 threads. Time taken: 1.548 s
+![alt text](https://github.com/davinnev/PowerUp-LLM/blob/main/examples/16threads.jpg?raw=true)
+
+
 ### Running the script 
 1. Clone the repository
 ```bash
