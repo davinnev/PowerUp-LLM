@@ -13,7 +13,7 @@ This optimizer is compatible for Linux machines.
 
 ![alt text](https://github.com/davinnev/PowerUp-LLM/blob/main/examples/4threads.png?raw=true)
 
-3. Running the matrix vector multiplication using 4 threads. Time taken: 1.548 s
+3. Running the matrix vector multiplication using 16 threads. Time taken: 1.548 s
 
 ![alt text](https://github.com/davinnev/PowerUp-LLM/blob/main/examples/16threads.png?raw=true)
 
